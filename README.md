@@ -1,2 +1,2 @@
 # Guest-Book
-The project Training PHP native
+The project Training PHP(oop)native
